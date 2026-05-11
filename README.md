@@ -4,6 +4,9 @@ A RESTful URL shortener API built with **Node.js**, **Express**, and **MongoDB**
 
 ---
 
+## 🚀 Live API
+Base URL: https://url-shortener-api-dh4c.onrender.com
+
 ## 🚀 Features
 
 - **User Auth** — Register and login with hashed passwords (bcrypt) and JWT-based session management
